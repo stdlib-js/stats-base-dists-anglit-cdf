@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-17)
+## Unreleased (2026-07-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`79dfbc4`](https://github.com/stdlib-js/stdlib/commit/79dfbc46e00386199e58ef0ed8f8643e25d09018) - **feat:** add `stats/base/dists/anglit/cdf` [(#10596)](https://github.com/stdlib-js/stdlib/pull/10596) _(by Bhargav Dabhade, Neeraj Pathak, Philipp Burckhardt)_
 
 </details>
