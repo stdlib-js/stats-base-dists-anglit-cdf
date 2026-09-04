@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-03)
+## Unreleased (2026-09-04)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1706793`](https://github.com/stdlib-js/stdlib/commit/170679376e8f8f572cc8f20da9c7406f51e6fbf0) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`fda1b2d`](https://github.com/stdlib-js/stdlib/commit/fda1b2dcb8178238aec1f4abb2c03be218ba5800) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`6aad72c`](https://github.com/stdlib-js/stdlib/commit/6aad72c2bcd622da9b9f2f3ff9d67daea5b895bd) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`2bef58b`](https://github.com/stdlib-js/stdlib/commit/2bef58bc7b32b5e7c87318940a21b0f6228a2f07) - **docs:** fix broken Markdown link [(#14865)](https://github.com/stdlib-js/stdlib/pull/14865) _(by Paradox)_
